@@ -1,0 +1,224 @@
+{
+    "BSC": [
+        {
+            "symbol": "BTC",
+            "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c"
+        },
+        {
+            "symbol": "ETH",
+            "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8"
+        },
+        {
+            "symbol": "WBNB",
+            "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+        },
+        {
+            "symbol": "XPR",
+            "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE"
+        },
+        {
+            "symbol": "DOGE",
+            "address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43"
+        },
+        {
+            "symbol": "MATIC",
+            "address": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD"
+        },
+        {
+            "symbol": "DOT",
+            "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402"
+        },
+        {
+            "symbol": "UNI",
+            "address": "0xBf5140A22578168FD562DCcF235E5D43A02ce9B1"
+        },
+        {
+            "symbol": "1INCH",
+            "address": "0x111111111117dC0aa78b770fA6A738034120C302"
+        },
+        {
+            "symbol": "LTC",
+            "address": "0x4338665CBB7B2485A8855A139b75D5e34AB0DB94"
+        },
+        {
+            "symbol": "LINK",
+            "address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD"
+        },
+        {
+            "symbol": "NFTY",
+            "address": "0x5774B2fc3e91aF89f89141EacF76545e74265982"
+        },
+        {
+            "symbol": "ATOM",
+            "address": "0x0Eb3a705fc54725037CC9e008bDede697f62F335"
+        },
+        {
+            "symbol": "AVAX",
+            "address": "0x1CE0c2827e2eF14D5C4f29a091d735A204794041"
+        },
+        {
+            "symbol": "FLOW",
+            "address": "0xC943c5320B9c18C153d1e2d12cC3074bebfb31A2"
+        },
+        {
+            "symbol": "FTM",
+            "address": "0xAD29AbB318791D579433D831ed122aFeAf29dcfe"
+        },
+        {
+            "symbol": "SHIB",
+            "address": "0x2859e4544C4bB03966803b044A93563Bd2D0DD4D"
+        },
+        {
+            "symbol": "USDT",
+            "address": "0x55d398326f99059fF775485246999027B3197955"
+        },
+        {
+            "symbol": "USDC",
+            "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d"
+        },
+        {
+            "symbol": "BUSD",
+            "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+        },
+        {
+            "symbol": "FRAX",
+            "address": "0x90C97F71E18723b0Cf0dfa30ee176Ab653E89F40"
+        },
+        {
+            "symbol": "TUSD",
+            "address": "0x14016E85a25aeb13065688cAFB43044C2ef86784"
+        },
+        {
+            "symbol": "DAI",
+            "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3"
+        }
+    ],
+    "ETH":[
+        {
+            "symbol": "BTC",
+            "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599"
+        },
+        {
+            "symbol": "WETH",
+            "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+        },
+        {
+            "symbol": "BNB",
+            "address": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52"
+        },
+        {
+            "symbol": "XPR",
+            "address": "0xD7EFB00d12C2c13131FD319336Fdf952525dA2af"
+        },
+        {
+            "symbol": "MATIC",
+            "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0"
+        },
+        {
+            "symbol": "UNI",
+            "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984"
+        },
+        {
+            "symbol": "DYDX",
+            "address": "0x92D6C1e31e14520e676a687F0a93788B716BEff5"
+        },
+        {
+            "symbol": "1INCH",
+            "address": "0x111111111117dC0aa78b770fA6A738034120C302"
+        },
+        {
+            "symbol": "CEL",
+            "address": "0xaaAEBE6Fe48E54f431b0C390CfaF0b017d09D42d"
+        },
+        {
+            "symbol": "LINK",
+            "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA"
+        },
+        {
+            "symbol": "FTM",
+            "address": "0x4E15361FD6b4BB609Fa63C81A2be19d873717870"
+        },
+        {
+            "symbol": "SHIB",
+            "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE"
+        },
+        {
+            "symbol": "USDT",
+            "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
+        },
+        {
+            "symbol": "USDC",
+            "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+        },
+        {
+            "symbol": "BUSD",
+            "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53"
+        },
+        {
+            "symbol": "FRAX",
+            "address": "0x853d955aCEf822Db058eb8505911ED77F175b99e"
+        },
+        {
+            "symbol": "TUSD",
+            "address": "0x0000000000085d4780B73119b644AE5ecd22b376"
+        },
+        {
+            "symbol": "DAI",
+            "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
+        }
+    ],
+    "FTM":[
+        {
+            "symbol": "BTC",
+            "address": "0x321162Cd933E2Be498Cd2267a90534A804051b11"
+        },
+        {
+            "symbol": "ETH",
+            "address": "0x74b23882a30290451A17c44f4F05243b6b58C76d"
+        },
+        {
+            "symbol": "BNB",
+            "address": "0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454"
+        },
+        {
+            "symbol": "CEL",
+            "address": "0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e"
+        },
+        {
+            "symbol": "SUSHI",
+            "address": "0xae75A438b2E0cB8Bb01Ec1E1e376De11D44477CC"
+        },
+        {
+            "symbol": "LINK",
+            "address": "0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8"
+        },
+        {
+            "symbol": "AVAX",
+            "address": "0x511D35c52a3C244E7b8bd92c0C297755FbD89212"
+        },
+        {
+            "symbol": "WFTM",
+            "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83"
+        },
+        {
+            "symbol": "USDT",
+            "address": "0x9879aBDea01a879644185341F7aF7d8343556B7a"
+        },
+        {
+            "symbol": "USDC",
+            "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75"
+        },
+        {
+            "symbol": "FRAX",
+            "address": "0xdc301622e621166BD8E82f2cA0A26c13Ad0BE355"
+        },
+        {
+            "symbol": "TUSD",
+            "address": "0x9879aBDea01a879644185341F7aF7d8343556B7a"
+        },
+        {
+            "symbol": "DAI",
+            "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E"
+        }
+    ]
+}
